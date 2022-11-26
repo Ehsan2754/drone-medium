@@ -137,7 +137,7 @@ This is a documention repo on how can you make your Raspberry Pi a medium for de
       reset halt
       ">openocd.cfg
       ```
-  3. strat debugging ```sudo openocd```
+  3. start debugging ```sudo openocd```
       ```
         mbed@ahuratus:~ $ openocd 
         Open On-Chip Debugger 0.12.0-rc2+dev-00019-g9d925776b (2022-11-23-13:01)
