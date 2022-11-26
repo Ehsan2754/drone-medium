@@ -31,7 +31,7 @@ This is a documention repo on how can you make your Raspberry Pi a medium for de
 
 * Inteface Configuration
   
-  1. update your packages ```sudo apt update;sudo apt upgrade;```
+  1. update your packages ```sudo apt update && sudo apt upgrade;```
   2. append the following lines to your configration file  located in ```/boot/config.txt```:
         ```
         [all]
